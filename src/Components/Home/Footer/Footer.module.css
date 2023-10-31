@@ -1,0 +1,55 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  justify-content: center;
+}
+.p {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 70px;
+}
+.h {
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.logo {
+  text-align: center;
+  margin-top: 70px;
+  cursor: pointer;
+}
+.data {
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  opacity: 0.75;
+  margin-top: 10px;
+}
+.copyr {
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  opacity: 0.8;
+  margin-top: 140px;
+  margin-bottom: 40px;
+}

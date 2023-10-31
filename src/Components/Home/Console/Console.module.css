@@ -1,0 +1,58 @@
+.console {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  height: 390px;
+  border-radius: 10px;
+  background: #fff;
+  text-align: center;
+  margin-bottom: 35px;
+  align-self: center;
+}
+.logo button {
+  background-color: black;
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  border: none;
+  margin-top: 40px;
+}
+h3 {
+  color: #000;
+  text-align: center;
+  font-family: Arial;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  align-self: center;
+  margin-top: 10px;
+}
+.pa {
+  width: 286px;
+  /* height: 95.2px; */
+  align-self: center;
+  color: #000;
+  text-align: center;
+  font-family: Arial;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 138.462% */
+  margin-top: 15px;
+}
+.btn {
+  cursor: pointer;
+  margin-top: 20px;
+  width: 71px;
+  align-self: center;
+}
+.btn svg {
+  width: 80px;
+  height: 40px;
+}
