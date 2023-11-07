@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gamerzden/static/css/main.8d4a37c4.css",
-    "main.js": "/gamerzden/static/js/main.41d6d6d5.js",
+    "main.js": "/gamerzden/static/js/main.a347089c.js",
     "static/media/EGS_GodofWar1.svg": "/gamerzden/static/media/EGS_GodofWar1.1f92d8fea36298bce5962d2389a3bd78.svg",
     "static/media/w2k22.svg": "/gamerzden/static/media/w2k22.4eff7bc4fad0cb39ff1a118467f784ac.svg",
     "static/media/assassin_origins.jpg": "/gamerzden/static/media/assassin_origins.6c72c9793de015ac6880.jpg",
@@ -36,10 +36,10 @@
     "index.html": "/gamerzden/index.html",
     "static/media/wheel.svg": "/gamerzden/static/media/wheel.fbb2acec091534d6dd34d1c7592c9376.svg",
     "main.8d4a37c4.css.map": "/gamerzden/static/css/main.8d4a37c4.css.map",
-    "main.41d6d6d5.js.map": "/gamerzden/static/js/main.41d6d6d5.js.map"
+    "main.a347089c.js.map": "/gamerzden/static/js/main.a347089c.js.map"
   },
   "entrypoints": [
     "static/css/main.8d4a37c4.css",
-    "static/js/main.41d6d6d5.js"
+    "static/js/main.a347089c.js"
   ]
 }
