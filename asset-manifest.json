@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gamerzden/static/css/main.ef9461ea.css",
+    "main.css": "/gamerzden/static/css/main.9db8953b.css",
     "main.js": "/gamerzden/static/js/main.41d6d6d5.js",
     "static/media/EGS_GodofWar1.svg": "/gamerzden/static/media/EGS_GodofWar1.1f92d8fea36298bce5962d2389a3bd78.svg",
     "static/media/w2k22.svg": "/gamerzden/static/media/w2k22.4eff7bc4fad0cb39ff1a118467f784ac.svg",
@@ -35,11 +35,11 @@
     "static/media/pslogo.svg": "/gamerzden/static/media/pslogo.06ac9a26d10dbde4b3b352280907d43c.svg",
     "index.html": "/gamerzden/index.html",
     "static/media/wheel.svg": "/gamerzden/static/media/wheel.fbb2acec091534d6dd34d1c7592c9376.svg",
-    "main.ef9461ea.css.map": "/gamerzden/static/css/main.ef9461ea.css.map",
+    "main.9db8953b.css.map": "/gamerzden/static/css/main.9db8953b.css.map",
     "main.41d6d6d5.js.map": "/gamerzden/static/js/main.41d6d6d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef9461ea.css",
+    "static/css/main.9db8953b.css",
     "static/js/main.41d6d6d5.js"
   ]
 }
