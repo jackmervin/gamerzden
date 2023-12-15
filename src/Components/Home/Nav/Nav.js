@@ -1,6 +1,6 @@
 import classes from "./Nav.module.css";
 import logo from "../../../Ui/img/logo.svg";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 function Nav() {
   return (
@@ -18,10 +18,10 @@ function Nav() {
           </div>
         </div>
         <div style={{ marginRight: "15px" }}>
-          <Link to="/booking">
+          {/* <Link to="/booking">
             <button className={classes.btn}>Booking</button>
-          </Link>
-          {/* <button className={classes.btn}>Booking</button> */}
+          </Link> */}
+          <button className={classes.btn}>Booking</button>
         </div>
       </div>
     </section>
