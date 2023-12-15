@@ -1,6 +1,6 @@
 .nav {
-  margin-top: 30px;
-  max-width: 100%;
+  /* margin-top: 30px; */
+  width: 100%;
   background-color: black;
   height: 110px;
   position: -webkit-sticky;
@@ -10,8 +10,8 @@
 }
 .navSet {
   display: flex;
-  justify-content: center;
-  padding: 20px 15px 0 0;
+  justify-content: space-between;
+  padding: 20px 0 0 0;
   box-sizing: border-box;
   max-width: 100%;
   /* column-gap: 100%; */
@@ -19,7 +19,7 @@
 .logo {
   /* width: 70px;
   height: 70px; */
-  margin-left: 30px;
+  margin-left: 20px;
   margin-right: 5px;
 }
 .logo img {

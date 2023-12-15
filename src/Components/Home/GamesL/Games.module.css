@@ -29,15 +29,15 @@
 }
 .border {
   text-align: center;
-  width: 180px;
-  height: 230px;
+  width: 160px;
+  height: 210px;
   border-radius: 5px;
   background: #33363f;
 }
 .img img {
   margin-top: 10px;
-  width: 180px;
-  height: 210px;
+  width: 160px;
+  height: 190px;
   transition: transform 0.2s;
   /* cursor: pointer; */
   border-radius: 5px;
@@ -56,7 +56,7 @@
   line-height: normal;
   padding: 15px 0;
   box-sizing: border-box;
-  width: 190px;
+  width: 160px;
 }
 .slider {
   position: relative;
